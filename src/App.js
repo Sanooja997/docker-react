@@ -8,8 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1 className="App-title">Welcome to React</h1>
-      </header>
-      <p>
+      
+        <p>
          Helloo!!!
          Welcome to React App..!!!!
  
@@ -21,7 +21,8 @@ function App() {
         >
           Learn React
         </a>
-      </p>
+        </p>
+      </header>
     </div>
   );
 }
